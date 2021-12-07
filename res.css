@@ -1,0 +1,33 @@
+.profile{
+
+    background-color: blue ;
+    
+} 
+.edu{ 
+    background-color: blueviolet; 
+    font-style:oblique;
+} 
+.ski{ 
+    background-color: greenyellow; 
+    font-style: oblique;
+} 
+.areas{ 
+    background-color: crimson; 
+    font-style: oblique;
+} 
+.per{ 
+    background-color: darkgreen;
+    font-style: oblique;
+}  
+.tds{ 
+     vertical-align: top; 
+     line-height: "80px"; 
+     background-color: burlywood;
+} 
+.skills{ 
+    background-color: deeppink; 
+    font-style:oblique;
+} 
+.contact{ 
+    font-style: oblique;
+}

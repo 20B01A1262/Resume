@@ -1,0 +1,29 @@
+body{ 
+    background-image: url("Home-Wallpaper-22.jpg");
+    background-repeat: no-repeat; 
+    background-size: cover;
+    background-attachment: fixed;
+} 
+div{
+    font-size:x-large; 
+    
+}
+input{ 
+    border-radius: 15px; 
+    color: aliceblue; 
+    background-color: black; 
+    font-size: x-small; 
+    border-color: aqua; 
+    width: 100px;
+    height:25px;
+} 
+a{ 
+   text-decoration: none;  
+   font-size: smaller; 
+   color: pink
+   
+} 
+a:hover{ 
+    text-decoration-line: underline; 
+    
+}

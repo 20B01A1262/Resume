@@ -1,0 +1,26 @@
+body{ 
+    background-image: url("Burger.jpeg");
+}
+a{ 
+    text-decoration: none ;
+    font-size:small; 
+    color:white ;
+} 
+.div{ 
+    font-size: x-large; 
+    
+}
+.btn{ 
+    padding: 5px 5px; 
+    border:0;
+    background:yellow; 
+    font-weight:bold; 
+    cursor:pointer;
+} 
+span{ 
+    color:yellow;
+} 
+.title{ 
+    color:white; 
+    
+}

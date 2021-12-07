@@ -1,0 +1,19 @@
+.signup{ 
+    width: 200px; 
+    height:350;
+    background-color: green; 
+    border-radius: 20px;
+} 
+.facebook{ 
+    width:200px;
+    height:350;
+    background-color: blue; 
+    border-radius: 20px;    
+} 
+a{ 
+     text-decoration:none
+} 
+div{ 
+    height: "1000px";
+    width:"1500px";
+}               
